@@ -7,5 +7,6 @@ public class Main {
         System.out.println(user.toString());
         System.out.println(user1.toString());
         System.out.println(user.equals(user));
+        System.out.println();
     }
 }
