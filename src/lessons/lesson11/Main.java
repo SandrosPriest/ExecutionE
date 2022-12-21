@@ -11,5 +11,6 @@ public class Main {
         System.out.println();
         System.out.println("I go!");
         System.out.println("Here are am!");
+        System.out.println("It`s addition");
     }
 }
